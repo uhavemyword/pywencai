@@ -60,8 +60,8 @@ def get_robot_data(**kwargs):
     def do():
         res = rq.request(
             method='POST',
-            url='http://www.iwencai.com/customized/chart/get-robot-data',
-            json=data,
+            url='http://www.iwencai.com/unifiedwap/unified-wap/v2/result/get-robot-data',
+            data=data,
             headers=headers(cookie, user_agent),
             **request_params
         )
