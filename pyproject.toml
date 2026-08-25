@@ -17,7 +17,7 @@ build-backend = "pdm.backend"
 
 [project]
 authors = [
-    {name = "pluto", email = "mayuanchi1029@gmail.com"},
+    {name = "uhavemyword", email = "uhavemyword@gmail.com"},
 ]
 requires-python = "<4.0,>=3.8"
 dependencies = [
@@ -28,9 +28,9 @@ dependencies = [
     "pydash<8.0.0,>=7.0.3",
     "ipykernel>=6.29.5",
 ]
-name = "pywencai"
+name = "jcwencai"
 version = "0.13.1"
-description = ""
+description = "Fork of pywencai with xxx changes"
 readme = "README.md"
 
 [dependency-groups]

@@ -1,7 +1,7 @@
-[![PyPI version](https://badge.fury.io/py/pywencai.svg)](https://badge.fury.io/py/pywencai)
-[![Downloads](https://static.pepy.tech/badge/pywencai/month)](https://pepy.tech/project/pywencai)
+[![PyPI version](https://badge.fury.io/py/jcwencai.svg)](https://badge.fury.io/py/jcwencai)
+[![Downloads](https://static.pepy.tech/badge/jcwencai/month)](https://pepy.tech/project/jcwencai)
 
-# pywencai
+# jcwencai (Fork of pywencai with xxx changes)
 
 获取同花顺问财数据
 
@@ -24,7 +24,7 @@
 ## 安装
 
 ```
-pip install pywencai
+pip install jcwencai
 ```
 > 由于问财接口策略经常发生变化，请安装最新版本使用，遇到问题时，优先尝试升级解决
 
